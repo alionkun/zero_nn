@@ -2,7 +2,7 @@ import math
 from tensor import Tensor
 
 # y = a * x * x + b * x + c
-# by hande
+# by hand
 a = 3.1
 x = 2.0
 b = -1.2
